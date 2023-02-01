@@ -16,5 +16,14 @@ Console
 # int.class 
 
 # Operadores Matemáticos
+# + Adição
+# - Subtração
+# * Multiplicação
+# / Divisão
+# % Módulo
+# ** Expoente
 
 # Entrada e Saídas
+# print "Saida de dados"
+# puts "Saida de dados" | puts "nome #{name}!"
+# gets.chomp | name = gets.chomp
