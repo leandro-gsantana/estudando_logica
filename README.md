@@ -1,1 +1,1 @@
-# estudando_logica
+# Diretório de diversas linguagem de estudos 
