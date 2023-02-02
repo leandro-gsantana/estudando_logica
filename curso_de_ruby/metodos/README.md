@@ -18,4 +18,5 @@ source 'https://rubygems.org' // diretório servidor
 gem 'os' // bibliotecas adicionadas 
 
 # rodar o comando na pasta do projeto
-* bundle
+* bundle 
+* ref: https://www.youtube.com/watch?v=W2hKFDBlgCc&list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ&index=5

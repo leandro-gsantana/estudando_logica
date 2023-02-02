@@ -14,5 +14,6 @@ signal
 color = "verde"
 signal(color)
 
-
-
+require "cpf_cnpj"
+number = "05025977630"
+puts CPF.valid?(number)

@@ -1,5 +1,6 @@
 # https://github.com/rdp/os
 require 'os'
+require "cpf_cnpj"
 def my_os
 
 	if OS.linux?
@@ -12,4 +13,6 @@ def my_os
 	end
 end
 	
-puts "Meu PC possui #{OS.cpu_count} cores, e #{OS.bits} bits e sistema operacional e #{pp OS.parse_os_release} "
+puts "Meu PC possui #{OS.cpu_count} cores, e #{OS.bits} bits e sistema operacional e #{my_os} "
+
+CPF.generate  
